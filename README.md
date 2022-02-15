@@ -7,6 +7,6 @@ This project was done to check weather variations with daily infection rates aro
 
 Data-Sources
 ---
-Covid-19:  [Our World In Data](https://ourworldindata.org/coronavirus)
-MaxTemp-Data: [JHU Temp Data](https://www.kaggle.com/eeemonts/weatherclimate-data-covid19/metadata)
++ Covid-19:  [Our World In Data](https://ourworldindata.org/coronavirus)
++ MaxTemp-Data: [JHU Temp Data](https://www.kaggle.com/eeemonts/weatherclimate-data-covid19/metadata)
 
